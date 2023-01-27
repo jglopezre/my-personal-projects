@@ -54,4 +54,13 @@ This is a blockbreaker like game, Arkonaid is not reationated with a game with a
 - [Repository](https://jglopezre.github.io/akonaid-web-game/)
 - [Live](https://jglopezre.github.io/akonaid-web-game/)
 
+## Vanilla Javascript
+
+### card-carousel-testing
+
+This was little app for Owl Carousel testing. In this case I used jQuery and Owl Carousel libraries
+
+- [Repository](https://github.com/jglopezre/card-carousel-testing.git)
+- [Live](https://jglopezre.github.io/card-carousel-testing/)
+
 
