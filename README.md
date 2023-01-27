@@ -37,3 +37,21 @@ This is an app that consumes Giphy API, searching a word and show results of gif
 
 - [Repository](https://github.com/jglopezre/react-gif-counter-app.git)
 - [Live](https://jglopezre.github.io/react-gif-counter-app/)
+
+## Phaser based Projects
+
+### infinite-jumper
+
+This a simple game of a jumping bunny that must collect carrots in it path.
+
+- [Repository](https://github.com/jglopezre/infinite-jumper.git)
+- This game does not have been deployed yet.
+
+### akonaid-web-game
+
+This is a blockbreaker like game, Arkonaid is not reationated with a game with a similar name. This game was made using Phaser.js Library, but is in develop process yet
+
+- [Repository](https://jglopezre.github.io/akonaid-web-game/)
+- [Live](https://jglopezre.github.io/akonaid-web-game/)
+
+
