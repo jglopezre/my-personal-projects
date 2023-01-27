@@ -63,4 +63,10 @@ This was little app for Owl Carousel testing. In this case I used jQuery and Owl
 - [Repository](https://github.com/jglopezre/card-carousel-testing.git)
 - [Live](https://jglopezre.github.io/card-carousel-testing/)
 
+### jspocketcalculator
+
+This was a calculator that simulates a simple pocket calculator
+
+- [Repository](https://github.com/jglopezre/jspocketcalculator.git)
+- [Live](https://jglopezre.github.io/jspocketcalculator/)
 
