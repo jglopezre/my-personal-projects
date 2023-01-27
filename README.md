@@ -29,4 +29,11 @@ This is component that allow you to make a list of days selected in several week
 This is a components that show a QR code, this now isn't coneted to a QR generator, This component was made with Gatsby Framework
 
 - [Repository](https://github.com/jglopezre/qr-card-gatsby-component.git)
-- [Live](https://github.com/jglopezre/qr-card-gatsby-component.git)
+- [Live](https://jglopezre.github.io/qr-card-gatsby-component/)
+
+### react-gif-counter-app
+
+This is an app that consumes Giphy API, searching a word and show results of gif images about that word. Please take care puttting the word in the field below tittle, because it has not border, but, field is here. Fix is pending.
+
+- [Repository](https://github.com/jglopezre/react-gif-counter-app.git)
+- [Live](https://jglopezre.github.io/react-gif-counter-app/)
