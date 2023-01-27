@@ -17,3 +17,16 @@ This rpository is a landing page made with Gatsby framework, using SASS for styl
 - [Repository](https://github.com/jglopezre/gatsby-made-fylo-homepage.git)
 - [Live](https://jglopezre.github.io/gatsby-made-fylo-homepage/)
 
+### schedule-react-component
+
+This is component that allow you to make a list of days selected in several weeks. This was stylised using SASS pre-processor.
+
+- [Repository](https://github.com/jglopezre/schedule-react-component.git)
+- [Live](http://schedule-react-component.vercel.app/)
+
+### qr-card-gatsby-component
+
+This is a components that show a QR code, this now isn't coneted to a QR generator, This component was made with Gatsby Framework
+
+- [Repository](https://github.com/jglopezre/qr-card-gatsby-component.git)
+- [Live](https://github.com/jglopezre/qr-card-gatsby-component.git)
